@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/0df58411-609f-4918-b571-a5ccc77221db">
 </p>
 
-<h1 align="center">🏖 자기소개</h1>
+<h1 align="center"> 개인 소개</h1>
 <h3 align="center">
 👋 안녕하세요! 백엔드 개발자 김동욱입니다. </br>
 '성장', '협업', '진취'는 제가 가장 좋아하는 인생 키워드입니다. </br>
@@ -10,8 +10,17 @@
 현재는 백엔드 서버 및 인프라 개발에 관심이 많습니다. </h3>
 </br></br></br>
 
+<h1 align="center">📝 기술 블로그</h1>
+<p align="center">
+  <a href="https://imkdu.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/기술 블로그 (티스토리)-000000?style=for-the-badge&logo=TISTORY&logoColor=white" 
+         style="width: 500px; height: 100px;">
+  </a>
+</p>
+</br></br></br>
 
-<h1 align="center">🚀 기술스택</h1>
+
+<h1 align="center">기술 스택</h1>
 
 <h3 align="center"> 활용가능한 기술스택입니다. </h3>
 
