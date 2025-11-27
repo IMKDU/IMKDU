@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0df58411-609f-4918-b571-a5ccc77221db">
-</p>
-
-<h1 align="center"> 개인 소개</h1>
 <h3 align="center">
 👋 안녕하세요! 김동욱입니다. </br>
 현재 관심분야는 AI Robotics 입니다. </h3>
